@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">apps sqlite by Muammar SST</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="input_alamat">Input Alamat</string>
+    <string name="input_nama">Input Nama</string>
+</resources>
